@@ -189,7 +189,9 @@ Slotted Turner</h2>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Premium Zester Grater</h2>
+                    <h3>
+                    BelleGuppy Lemon Zester & Cheese Grater, Professional Zesting tool for Parmesan, Citrus, Ginger, Nutmeg, Garlic, Chocolate, Fruits, Razor-Sharp Stainless Steel Blade Protective cover, Dishwasher Save
+                    </h3>
                     <p>&nbsp;
                         <br>&nbsp;</p>
                 </div>
